@@ -1,10 +1,10 @@
 .odd{
     background-color: lightpink;
-    font-family: 'Verdana','DejaVu Sans','sans-serif';
+    font-family: Verdana,"DejaVu Sans",sans-serif;
 }   
 
 .third{
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #second{
