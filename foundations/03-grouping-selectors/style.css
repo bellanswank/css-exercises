@@ -1,0 +1,14 @@
+.boring,
+.exciting{
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman',sans-serif;
+}
+
+.boring{
+    background-color: black;
+    color: white;
+}
+
+.exciting{
+    background-color: yellow;
+}
