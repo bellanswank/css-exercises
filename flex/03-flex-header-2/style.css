@@ -20,11 +20,18 @@ body {
 .left-header{
   display: flex;
   justify-content: flex-start;
+  margin: 8px;
+  padding: 0;
+  gap: 10px;
 }
 
 .right-header{
   display: flex;
   justify-content: flex-end;
+  align-items: center;
+  margin: 8px;
+  padding: 0;
+  gap: 10px;
 }
 
 .profile-image {
@@ -61,6 +68,8 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-
-  gap: 8px;
+  align-items: center;
+  padding: 8px;
+  margin: 8px;
+  gap: 10px;
 }
